@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="GlobalSupplyChainManagement.jpg" />
+    <None Remove="OperationsManagement.jpg" />
+    <None Remove="ProductDevelopmentImage.jpg" />
+    <None Remove="SixSigmaImage.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="GlobalSupplyChainManagement.jpg" />
+    <Resource Include="OperationsManagement.jpg" />
+    <Resource Include="ProductDevelopmentImage.jpg" />
+    <Resource Include="SixSigmaImage.jpg" />
+  </ItemGroup>
+
+</Project>
