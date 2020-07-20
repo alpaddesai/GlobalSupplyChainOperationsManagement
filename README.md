@@ -9,4 +9,12 @@ Please download the executable in https://github.com/alpaddesai/GlobalSupplyChai
 ## Global Supply Chain Management
 ![image](GlobalSupplyChainMgmt.png)
 
+## Product Development Image
+![image](ProductDevelopmentImage.png)
+
+## Organizational Structure Product Development
+![image](OrganizationalStructureProductDevelopment.png)
+
+## Six Sigma Product Development
+![image](SixSigma.png)
 
