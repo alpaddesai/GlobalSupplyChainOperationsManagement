@@ -18,4 +18,6 @@ Please download the executable in https://github.com/alpaddesai/GlobalSupplyChai
 ## Six Sigma Product Development
 ![image](SixSigma.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional reference : https://github.com/alpaddesai/IntroductiontoSupplyChainManagement and https://github.com/alpaddesai/EngineeringProjectManagement
