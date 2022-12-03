@@ -22,4 +22,4 @@ Please download the executable in https://github.com/alpaddesai/GlobalSupplyChai
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/IntroductiontoSupplyChainManagement and https://github.com/alpaddesai/EngineeringProjectManagement
+Additional reference : https://github.com/alpaddesai/IntroductiontoSupplyChainManagement 
