@@ -22,5 +22,5 @@ Please download the executable in https://github.com/alpaddesai/GlobalSupplyChai
 
 ![image](Ethics.jpg)
 
-Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea2022
+Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
 
