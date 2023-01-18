@@ -4,8 +4,6 @@ The project provides an introduction to global supply chain process and operatio
 
 Confidential information is not displayed. Images are custom.
 
-Please download the executable in https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement/releases/ for details.
-
 ## Global Supply Chain Management
 ![image](GlobalSupplyChainMgmt.png)
 
